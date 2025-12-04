@@ -1,0 +1,1 @@
+Available UI session types: [ Win32, csh ]
